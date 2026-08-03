@@ -15,6 +15,8 @@ Quiz page for 431 in Fall 2026 with Professor Love at CWRU
     - whether you can apply the tools developed in class to address small problems,
     - your ability to solve challenges from across the data science spectrum, and this may include issues arising in data management, study design,  data analysis, statistical modeling, interpretation and communication,
     - and your understanding gained from completing the readings associated with the course
+6. The Quiz will be graded out of a possible 120 points. For details on how the Quiz affects your course grade, see the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html).
+
 
 The best way to study for the Quiz is to focus on keeping up with the materials in and out of class. Memorizing is worthless in this context. Organizing your thinking is vital.
 
