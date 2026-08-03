@@ -10,4 +10,5 @@ There is one Quiz this term, which you will receive just before the Thanksgiving
 4. We will also make data sets available to you that are relevant to the Quiz.
 5. You will provide your responses using a Google Form Answer Sheet, such as the ones we use for Minute Papers.
 6. The best way to study for the Quiz is to focus on keeping up with the materials in and out of class.
-
+7. Late Quiz submissions will not be accepted, except in truly remarkable circumstances.
+8. If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible, well before the Quiz is released.
