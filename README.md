@@ -2,13 +2,27 @@
 
 Quiz page for 431 in Fall 2026 with Professor Love at CWRU
 
-There is one Quiz this term, which you will receive just before the Thanksgiving break. Relevant dates for the Quiz are provided on the [Course Calendar](calendar.qmd).
+## What is this?
 
-1. This will be an open-book, end-of-semester assessment of everything we'll do between the start of the course and Class 24. 
-2. The Quiz will include 20-30 multiple choice / short answer questions, plus as many as two longer essays, and is meant to take 6-10 hours to complete.
-3. The Quiz will be provided to you as a PDF document, including detailed instructions.
-4. We will also make data sets available to you that are relevant to the Quiz.
-5. You will provide your responses using a Google Form Answer Sheet, such as the ones we use for Minute Papers.
-6. The best way to study for the Quiz is to focus on keeping up with the materials in and out of class.
-7. Late Quiz submissions will not be accepted, except in truly remarkable circumstances.
-8. If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible, well before the Quiz is released.
+1. There is one Quiz this term, which you will receive and submit according to the dates specified in the [Calendar](https://thomaselove.github.io/431-2026/calendar.html).
+2. Those dates give you 13 days (including Thanksgiving week) to do the Quiz.
+    - Since the quiz is designed to take 6-10 hours to complete, we expect the time pressure to be minimal.
+    - Quizzes that are more than 59 minutes late will **not be accepted**, except in truly remarkable circumstances.
+    - **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, well before the Quiz is released. 
+3. The Quiz will be an open-book, end-of-semester assessment of everything we'll do between the start of the course and Class 24. 
+4. The Quiz will include 20-30 multiple choice and short answer questions, plus as many as two longer essays.
+5. The Quiz focuses on giving you opportunities to demonstrate:
+    - whether you can apply the tools developed in class to address small problems,
+    - your ability to solve challenges from across the data science spectrum, and this may include issues arising in data management, study design,  data analysis, statistical modeling, interpretation and communication,
+    - and your understanding gained from completing the readings associated with the course
+
+The best way to study for the Quiz is to focus on keeping up with the materials in and out of class. Memorizing is worthless in this context. Organizing your thinking is vital.
+
+## What we'll provide here when the Quiz becomes available
+
+The Quiz will be provided to you on this page as a PDF document, which will include detailed instructions.
+
+- We will also make data sets available to you via links on this page that are relevant to the Quiz.
+- You will provide your responses using a Google Form Answer Form, like the ones we use for Minute Papers. This will also be linked on this page when the Quiz becomes available.
+
+
