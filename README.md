@@ -10,7 +10,7 @@ Quiz page for 431 in Fall 2026 with Professor Love at CWRU
     - Quizzes that are more than 59 minutes late will **not be accepted**, except in truly remarkable circumstances.
     - **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, well before the Quiz is released. 
 3. The Quiz will be an open-book, end-of-semester assessment of everything we'll do between the start of the course and Class 24.
-    - You are welcome (even encouraged) to consult the materials provided on the course website, but you are **not** allowed to discuss the questions on the Quizzes with anyone other than Professor Love or the teaching assistants.
+    - You are welcome (even encouraged) to consult the materials provided on the course website, but you are **not** allowed to discuss the questions on the Quiz except via email to `431-help@case.edu`.
 4. The Quiz will include 20-30 multiple choice and short answer questions, plus as many as two longer essays.
 5. The Quiz focuses on giving you opportunities to demonstrate:
     - whether you can apply the tools developed in class to address small problems,
