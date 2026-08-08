@@ -14,7 +14,7 @@ Quiz page for 431 in Fall 2026 with Professor Love at CWRU
 3. Each Quiz focuses on opportunities for you to demonstrate:
     - how well you can apply the tools developed in class to address small problems,
     - your ability to solve challenges from across the data science spectrum, and including those arising in data management, study design,  data analysis, statistical modeling, interpretation and communication,
-    - and your understanding of the readings associated with the course
+    - and your understanding of the readings associated with the course.
 4. For details on how the Quizzes affect your course grade, see the [Syllabus](https://thomaselove.github.io/431-syllabus-2026/11_grading.html).
 
 The best way to study for each Quiz is to focus on keeping up with the materials in and out of class. Memorizing is worthless in this context. Organizing your thinking is vital.
