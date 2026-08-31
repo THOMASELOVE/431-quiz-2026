@@ -21,7 +21,7 @@ The best way to study for each Quiz is to focus on keeping up with the materials
 
 ## A Sample "Quiz"
 
-Dr. Love prepared a document containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quizzes-2026/tree/main/sample), if you are interested.
+Dr. Love prepared a document containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quiz-2026/tree/main/sample), if you are interested.
 
 
 ## What we'll provide here when each Quiz becomes available
