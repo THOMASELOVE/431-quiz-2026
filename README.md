@@ -19,6 +19,11 @@ Quiz page for 431 in Fall 2026 with Professor Love at CWRU
 
 The best way to study for each Quiz is to focus on keeping up with the materials in and out of class. Memorizing is worthless in this context. Organizing your thinking is vital.
 
+## A Sample "Quiz"
+
+Dr. Love prepared a document containing five old quiz questions, as well as an answer sketch for those five questions, and some information on results. [You'll find it all here](https://github.com/THOMASELOVE/431-quizzes-2026/tree/main/sample), if you are interested.
+
+
 ## What we'll provide here when each Quiz becomes available
 
 Each Quiz will be provided to you on this page as a PDF document, which will include detailed instructions.
