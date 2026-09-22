@@ -8,7 +8,8 @@ Quiz page for 431 in Fall 2026 with Professor Love at CWRU
     - **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, well before that Quiz is released.
 2. Each Quiz is an open-book assessment of everything we'll do between the start of the course and Class 13 (for Quiz 1) and Class 24 (for Quiz 2.)
     - You are welcome (even encouraged) to consult the materials provided on the course website, but you are **not** allowed to discuss the questions on the Quiz except via email to `431-help@case.edu`.
-    - Each quiz will include 24-33 multiple choice and short answer questions, plus as many as two longer essays.
+    - Each quiz will include 20-35 multiple choice and short answer questions, plus as many as two longer essays.
+    - **NEW** I expect Quiz 1 to include 33 short items and one essay.
     - Each quiz is designed to take 6-8 hours to complete, and you will have at least five days to complete each one, so we expect the time pressure to be minimal.
     - Quizzes that are more than 59 minutes late will **not be accepted**, except in truly remarkable circumstances.
 3. Each Quiz focuses on opportunities for you to demonstrate:
