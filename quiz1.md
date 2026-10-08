@@ -23,7 +23,7 @@ If you need clarification on a Quiz question, you have exactly two ways of getti
 (1) Ask your quiz question via email to `431-help` at `case dot edu`.
 (2) Ask your quiz question **in person** during Class 15 on 2026-10-13.
 
-During the Quiz period (5 PM 2026-10-09 through 12:30 PM 2026-10-14) we will not answer questions about the Quiz in TA office hours, or in any other way. Specific questions are more likely to get helpful answers. Dr. Love will not review your code or your English for you, nor will he tell you if your answer is correct, or if it is complete. He will email all students if we find an error in the Quiz that needs fixing.
+You should **NEVER** spend more than 20 minutes on any question without asking Dr. Love for help. Just email him at **431-help AT CASE DOT EDU**. During the Quiz period (5 PM 2026-10-09 through 12:30 PM 2026-10-14) we will not answer questions about the Quiz in TA office hours, or in any other way. Specific questions are more likely to get helpful answers. Dr. Love will not review your code or your English for you, nor will he tell you if your answer is correct, or if it is complete. He will email all students if we find an error in the Quiz that needs fixing.
 
 The Form contains places to provide your responses to each of the Quiz's 36 questions, and a final affirmation where you’ll type in your name to tell us that you followed the rules for the Quiz. You must complete that affirmation before you can submit your responses. When you submit your results (in the same way you submit a Minute Paper) you will receive an email copy of your submission, with a link that will allow you to edit your work. 
 
