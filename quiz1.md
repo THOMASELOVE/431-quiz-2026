@@ -8,7 +8,7 @@ Dr. Love will email you, and the details of the change will be posted here.
  
 # Links to the Materials You'll Need
 
-1. The PDF of Quiz 1, including all 36 questions and **complete** instructions, will be found here (**LINK TO COME**).
+1. The PDF of Quiz 1, including all 36 questions and **complete** instructions, will be found here. For now, [here's a PDF of just the instructions](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/quiz1/431-2026-quiz1_instructionsonly.pdf). We'll replace that link with the complete PDF when it is available.
 2. The [Quiz 1 Answer Form](https://tinyurl.com/431-2026-quiz1-form) where you will place all of your responses by the deadline, is found at <https://tinyurl.com/431-2026-quiz1-form>.
 3. We are providing **six** data sets (called **q01.xlsx, q14.xlsx, q16a.csv, q16b.csv, q23.csv** and **q35.csv**) that are mentioned in the Quiz. These can either be downloaded from the [quiz1 folder on our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data/quiz1), or from our Shared Drive in the [Quiz 1 folder's data subfolder](https://drive.google.com/drive/folders/1G7PyQybUeF-55pSG62CsJGg1MhL-_6Ze?usp=drive_link).
 4. Here is a list of the R packages I used in creating the quiz (other than xfun, which I used only to post the session information.) You may or may not need all of these packages in your response, but if you like, you can copy and paste them into a Quarto file.
