@@ -43,6 +43,8 @@ theme_set(theme_bw())
 
 # Highlighting some of the most important Instructions
 
+Complete instructions are provided in the PDF for Quiz 1. Highlights follow...
+
 All of your answers to the Quiz must be submitted through the 431 Quiz 1 Answer Form by noon on Wednesday 2026-10-14, without exception. The form will close at 12:30 PM on that date, and no extensions will be available, so do not wait until late in the morning on Wednesday to submit your work. We will only accept responses through this Google Form.
 
 This is an open book, open notes quiz. You are welcome to consult the materials provided on the course website and that we’ve been reading in the class, but you are not allowed to post the questions online, use any sort of AI to help you, or discuss the questions on this quiz with anyone other than Dr. Love (not even the teaching assistants.) 
