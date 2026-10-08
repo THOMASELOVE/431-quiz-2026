@@ -7,6 +7,35 @@ All links to Quiz 1 materials will be posted, by 5 PM on Friday 2026-10-09. The 
 1. The PDF of Quiz 1, including all 36 questions and **complete** instructions, is found here.
 2. The Quiz 1 Answer Form where you will place all of your responses by the deadline, is found here.
 3. We are providing **six** data sets (called **q01.xlsx, q14.xlsx, q16a.csv, q16b.csv, q23.csv** and **q35.csv**) that are mentioned in the Quiz. These can either be downloaded from the [quiz1 folder on our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data/quiz1), or from our Shared Drive in the [Quiz 1 folder's data subfolder](https://drive.google.com/drive/folders/1G7PyQybUeF-55pSG62CsJGg1MhL-_6Ze?usp=drive_link).
+4. Here is a list of the R packages I used in creating the quiz (other than xfun, which I used only to post the session information.) You may or may not need all of these packages in your response, but if you like, you can copy and paste them into a Quarto file.
+
+```{r}
+#| message: false
+
+knitr::opts_chunk$set(comment = NA)
+
+library(here)
+
+source(here("data/Love-431.R"))
+
+library(car)
+library(DescTools)
+library(Epi)
+library(glue)
+library(infer)
+library(janitor)
+library(knitr)
+library(MKinfer)
+library(naniar)
+library(palmerpenguins)
+library(patchwork)
+library(readxl)
+library(rstanarm)
+library(easystats)
+library(tidyverse)
+
+theme_set(theme_bw())
+```
 
 # If we find something we need to change in the Quiz before it's due
 
