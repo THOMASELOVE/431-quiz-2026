@@ -2,6 +2,10 @@
 
 All links to Quiz 1 materials will be posted, by 5 PM on Friday 2026-10-09. The Quiz is due at noon on Wednesday 2026-10-14.
 
+# If we find something we need to change in the Quiz before it's due
+
+Dr. Love will email you, and the details of that problem will be posted here.
+ 
 # Links to the Materials You'll Need
 
 1. The PDF of Quiz 1, including all 36 questions and **complete** instructions, is found here.
@@ -37,10 +41,6 @@ library(tidyverse)
 theme_set(theme_bw())
 ```
 
-# If we find something we need to change in the Quiz before it's due
-
-Dr. Love will email you, and the details of that problem will be posted here.
- 
 # Highlighting some of the most important Instructions
 
 All of your answers to the Quiz must be submitted through the 431 Quiz 1 Answer Form by noon on Wednesday 2026-10-14, without exception. The form will close at 12:30 PM on that date, and no extensions will be available, so do not wait until late in the morning on Wednesday to submit your work. We will only accept responses through this Google Form.
