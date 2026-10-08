@@ -2,6 +2,8 @@
 
 Quiz page for 431 in Fall 2026 with Professor Love at CWRU
 
+# Quiz 1 information [is posted here](quiz1.md).
+
 ## What is this?
 
 1. There are two Quizzes this term, which you will receive and submit according to the dates specified in the [Calendar](https://thomaselove.github.io/431-2026/calendar.html).
@@ -31,6 +33,7 @@ Each Quiz will be provided to you on this page as a PDF document, which will inc
 
 - We will also make data sets available to you via links on this page that are relevant to the Quiz.
 - You will provide your responses using a Google Form Answer Form, like the ones we use for Minute Papers. This will also be linked on this page when the Quiz becomes available.
+
 
 
 
