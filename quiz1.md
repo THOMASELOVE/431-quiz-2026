@@ -4,7 +4,7 @@ All links to Quiz 1 materials will be posted, by 5 PM on Friday 2026-10-09. The 
 
 # If we find something we need to change in the Quiz before it's due
 
-Dr. Love will email you, and the details of that problem will be posted here.
+Dr. Love will email you, and the details of the change will be posted here.
  
 # Links to the Materials You'll Need
 
