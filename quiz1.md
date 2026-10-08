@@ -1,6 +1,6 @@
 # Quiz 1 Information
 
-All links to Quiz 1 materials will be posted, by 5 PM on Friday 2026-10-09. The Quiz is due at noon on Wednesday 2026-10-14.
+All links to Quiz 1 materials are now available. The Quiz is due at noon on Wednesday 2026-10-14.
 
 # If we find something we need to change in the Quiz before it's due
 
