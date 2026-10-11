@@ -7,6 +7,7 @@ All links to Quiz 1 materials are now available. The Quiz is due at noon on Wedn
 Dr. Love will email you, and the details of the change will be posted here.
 
 1. On 2026-10-11 at 8:30 AM, I changed option b in Question 26 to `b. The median and median absolute deviation (MAD)`.
+2. On 2026-10-11 at 3:10 PM, I changed option c in Question 14 to indicate section 5.5.3 in my course book.
 
  
 # Links to the Materials You'll Need
