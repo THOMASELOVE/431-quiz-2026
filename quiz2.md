@@ -2,7 +2,12 @@
 
 All links to Quiz 2 materials will be posted to this page by **Friday 2026-11-20 at 5 PM**.
 
-- The Quiz is due at **4 PM on Monday 2026-11-30**.
+The Quiz will be provided to you on this page as a PDF document, which will include detailed instructions.
+
+- We will also make data sets available to you via links on this page that are relevant to the Quiz.
+- You will provide your responses using a Google Form Answer Form, like the ones we use for Minute Papers. This will also be linked on this page when the Quiz becomes available.
+
+## Quiz 2 is due at **4 PM on Monday 2026-11-30**.
 
 ## Thanksgiving Week
 
