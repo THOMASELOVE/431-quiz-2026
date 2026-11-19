@@ -79,7 +79,9 @@ theme_set(theme_bw())
 
 ## Our cats
 
-Our cats are Rose Maybud and Josephine. Here are a couple of pictures from early 2025 when they were new to us.
+Our cats are Josephine and Rose Maybud. Here are a couple of pictures from early 2025, when they were newer to us. They're named for Gilbert & Sullivan characters. Josie likes me. Rosie likes my wife.
 
+![Josie](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/josephine_2025-02-17.jpg)
 
+![Rosie](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/rose_maybud_2025-02-17.jpg)
 
