@@ -2,10 +2,45 @@
 
 All links to Quiz 2 materials will be posted to this page by **Friday 2026-11-20 at 5 PM**.
 
-The Quiz will be provided to you on this page as a PDF document, which will include detailed instructions.
+## Quiz Materials
 
-- We will also make data sets available to you that are relevant to the Quiz.
+1. The Quiz will be provided to you on this page as a PDF document, which will include detailed instructions.
+2. The Quiz requires two data sets.
 - You will provide your responses using a Google Form Answer Sheet, as you did in Quiz 1, which we will also provide. 
+
+## R packages load included in the instructions
+
+Here is the list of packages chunk of R code that is mentioned on page 6 of the Quiz 2 Instructions.
+
+```{r}
+#| message: false
+
+knitr::opts_chunk$set(comment = NA)
+
+library(here)
+source(here("data/Love-431.R"))
+
+library(broom) 
+library(car) 
+library(DescTools) 
+library(Epi) 
+library(GGally)
+library(gt)
+library(glue)
+library(janitor)
+library(naniar)
+library(mice) 
+library(MKinfer)
+library(olsrr)
+library(patchwork)
+library(pwr)
+library(readxl) 
+library(rstanarm)
+library(easystats)
+library(tidyverse)
+
+theme_set(theme_bw())
+```
 
 ## Quiz 2 is due at **4 PM on Monday 2026-11-30**.
 
