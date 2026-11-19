@@ -17,11 +17,6 @@
 
 ---------
 
-## Thanksgiving Week Reminders
-
-- We will not hold 431 class on either Tuesday 2026-11-24 or Thursday 2026-11-26.
-- TA office hours are **closed** from Saturday 2026-11-21 through Friday 2026-11-27, returning Saturday 2026-11-28.
-
 ## Getting Help
 
 During the Quiz period (5 PM 2026-11-19 through 4 PM 2026-11-30) we will not answer questions about the Quiz in TA office hours, or in any other way. Some cautions:
