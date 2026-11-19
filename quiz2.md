@@ -10,7 +10,7 @@ All links to Quiz 2 materials will be posted to this page by **Friday 2026-11-20
 
 ## R packages code chunk
 
-Here is the chunk of R code listing R packages from page 6 of the Quiz 2 Instructions, so you can copy and paste it into RStudio.
+Here is the code chunk listing R packages from page 6 of the Quiz 2 Instructions, so you can copy and paste it into RStudio.
 
 ```{r}
 #| message: false
