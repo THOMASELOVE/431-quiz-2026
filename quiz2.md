@@ -12,6 +12,7 @@
 2. I have provided **two** data sets (called **cats1.xlsx** and **q28_data.csv**) that are mentioned in the Quiz. These can either be downloaded from [our 431-data page](https://github.com/THOMASELOVE/431-data), or found in our Shared Drive in the **431 Quiz 2** folder's data sub-folder.
 3. You will provide your responses using [this Google Form Answer Sheet](https://tinyurl.com/431-2026-quiz2-form).
     - The link to the Answer Sheet form is <https://tinyurl.com/431-2026-quiz2-form>.
+    - The form will close at 4:15 PM on 2026-11-30 and will not reopen.
 
 ---------
 
