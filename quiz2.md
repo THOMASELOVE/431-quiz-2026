@@ -1,11 +1,12 @@
 # Quiz 2 Information
 
-- All links to Quiz 2 materials will be posted to this page by **Thursday 2026-11-19 at 5 PM**.
+- All links to Quiz 2 materials are now available on this page.
+- If you have any question at all about Quiz 2, email it to **431-help at case dot edu**.
 - Quiz 2 is due at **4 PM on Monday 2026-11-30**.
 
 ## Quiz Materials
 
-1. The Quiz will be provided to you on this page as a **29-page** PDF document, which includes detailed instructions, and all 30 questions.
+1. The Quiz [instructions and questions are now posted](https://github.com/THOMASELOVE/431-quiz-2026/blob/main/quiz2/431-2026-quiz2.pdf) as a **29-page** PDF document, which includes detailed instructions, and all 30 questions.
     - In addition, there are two bonus questions (clearly marked as bonus) at the end of the Quiz.
         - Neither will improve your Quiz grade. Each will improve your end-of-semester bonus if you build a good response.
         - It's your choice to do both, either or none of the bonus questions.
