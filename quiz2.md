@@ -8,9 +8,9 @@ All links to Quiz 2 materials will be posted to this page by **Friday 2026-11-20
 2. The Quiz requires two data sets.
 - You will provide your responses using a Google Form Answer Sheet, as you did in Quiz 1, which we will also provide. 
 
-## R packages load included in the instructions
+## R packages code chunk
 
-Here is the list of packages chunk of R code that is mentioned on page 6 of the Quiz 2 Instructions.
+Here is the chunk of R code listing R packages from page 6 of the Quiz 2 Instructions, so you can copy and paste it into RStudio.
 
 ```{r}
 #| message: false
