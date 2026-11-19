@@ -2,6 +2,7 @@
 
 - All links to Quiz 2 materials are now available on this page.
 - If you have any question at all about Quiz 2, email it to **431-help at case dot edu**.
+    - All email received there from Monday 2026-11-23 through Saturday 2026-11-28 will be answered on Sunday 2026-11-29.
 - Quiz 2 is due at **4 PM on Monday 2026-11-30**.
 
 ## Quiz Materials
