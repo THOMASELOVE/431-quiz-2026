@@ -7,8 +7,8 @@
 
 1. The Quiz will be provided to you on this page as a **29-page** PDF document, which includes detailed instructions, and all 30 questions.
     - In addition, there are two bonus questions (clearly marked as bonus) at the end of the Quiz.
-    - Neither will improve your Quiz grade. Each will improve your end-of-semester bonus if you build a good response.
-    - It's your choice to do both, either or none of the bonus questions.
+        - Neither will improve your Quiz grade. Each will improve your end-of-semester bonus if you build a good response.
+        - It's your choice to do both, either or none of the bonus questions.
 2. I have provided **two** data sets (called **cats1.xlsx** and **q28_data.csv** that are mentioned in the Quiz. These can either be downloaded from [our 431-data page](https://github.com/THOMASELOVE/431-data), or found in our Shared Drive in the **431 Quiz 2** folder's data sub-folder.
 3. You will provide your responses using [this Google Form Answer Sheet](https://tinyurl.com/431-2026-quiz2-form), as you did in Quiz 1. The link to the form is <https://tinyurl.com/431-2026-quiz2-form>.
 
