@@ -77,3 +77,9 @@ library(tidyverse)
 theme_set(theme_bw())
 ```
 
+## Our cats
+
+Our cats are Rose Maybud and Josephine. Here are a couple of pictures from early 2025 when they were new to us.
+
+
+
