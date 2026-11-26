@@ -11,7 +11,7 @@
     - There are **eight** main analyses described in the Quiz (Questions 5-7, Questions 8-9, Questions 10-12, Questions 13-16, Questions 17-18, Questions 19-20, Questions 21-22, and finally Questions 23-27).
     - You should start your work on each of those analyses with 999 rows. Some analyses, either because they include variables with missing data, or for other reasons specified in the instructions, may wind up with fewer than 999 rows. 
 - What **units of measurement** should we use for the F1_, F2_, F3_ and F4_ variables? Points.
-- Q09: A correct answer to Q09 will provide us the name of a specified cell and then with six numbers (3 observed, and 3 expected).
+- Q09: A correct answer to Q09 will provide us the name of a specified cell and then provide six numbers (3 observed, and 3 expected).
 - Q15-Q16: All five response sets (A-E) do provide both a point estimate and 89% uncertainty interval estimate in the provided output.
 - Q22: Q22 is about Pr(catching at least one animal), and not about Pr(catching exactly one animal) throughout.
 
