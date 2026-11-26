@@ -13,6 +13,7 @@
 - Q09: A correct answer to Q09 will provide us the name of a specified cell and then with six numbers (3 observed, and 3 expected).
 - Q15-Q16: All five response sets (A-E) do provide both a point estimate and 89% uncertainty interval estimate in the provided output.
 - Q22: Q22 is about Pr(catching at least one animal), and not about Pr(catching exactly one animal) throughout.
+- What units of measurement should we use for the F1_, F2_, F3_ and F4_ variables? Points are fine.
 
 ## Quiz Materials
 
