@@ -14,6 +14,7 @@
 - Q09: A correct answer to Q09 will provide us the name of a specified cell and then provide six numbers (3 observed, and 3 expected).
 - Q15-Q16: All five response sets (A-E) do provide both a point estimate and 89% uncertainty interval estimate in the provided output.
 - Q22: Q22 is about Pr(catching at least one animal), and not about Pr(catching exactly one animal) throughout.
+- Q28: My intent in Question 28 was to have you round to two decimal places for MAPE, and RMSE, and to have you round the validated R-square expressed as a percentage to two decimal places, so that would be four decimal places if you instead represent the validated R-square as a proportion (or fraction.) So, for instance, if the MAPE was 1.234 with one model and 1.231 with another, those would be tied, and the correct response would be that there's no difference between the models on that metric.
 
 ## Quiz Materials
 
